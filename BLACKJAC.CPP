@@ -7,11 +7,11 @@ Updates:1.Advanced betting system; allows players to increase their
 	  collapse after program termination.Hmmmm...gotta do something
 	  about it.
 	  */
-/*UPDATE 2.0
+/*UPDATE 1.1
 Finally after lots of struggle and a silly directory related problem
 WE HAVE GRAPHICS!!!!!
 */
-/*Update 2.1
+/*Update 1.2
 1.Thanks to Mr. Nischal T and some getch() magic, the option entry problem has
 finally been solved.
 2.Filters added to input;

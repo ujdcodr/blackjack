@@ -1,4 +1,4 @@
-/*Version 1.1
+/*Version 1.0
 Ultimate BlackJack:Play or Be Played
 Conceived,Conceptualised & Coded ENTIRELY by Ujjwal Pasupulety
 Updates:1.Advanced betting system; allows players to increase their
